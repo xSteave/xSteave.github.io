@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://xsteave.github.io"
-title = "Steavi portfolio"
+title = "Steave portfolio"
 theme = "somrat"
 # post pagination
 paginate = "6"
