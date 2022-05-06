@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://xsteave.github.io"
 title = "Steavi portfolio"
 theme = "somrat"
 # post pagination
