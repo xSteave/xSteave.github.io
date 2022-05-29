@@ -3,7 +3,7 @@ title : "Je suis Steave"
 # full screen navigation
 first_name : "Jean-Baptiste"
 last_name : "STEAVE"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+bg_image : "images/backgrounds/full-nav-bg.gif"
 # animated text loop
 occupations:
 - "Systèmes et Réseaux"

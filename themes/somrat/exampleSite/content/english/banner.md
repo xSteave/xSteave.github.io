@@ -3,7 +3,7 @@ title : "I'm Somrat Sorkar"
 # full screen navigation
 first_name : "MacGyver"
 last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+bg_image : "images/backgrounds/full-nav-bg.gif"
 # animated text loop
 occupations:
 - "Web Developer"
