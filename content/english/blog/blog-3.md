@@ -9,4 +9,4 @@ draft: false
 
 Dans cette documentation, je vais vous présenter un serveur de Messagerie fabriqué de toute pièce sur une machine linux.
 
-[Vidéo](https://www.youtube.com/watch?v=D_5IVYSZJh8)
+[Documentation](/modele-cv-original-futuriste.pdf)
