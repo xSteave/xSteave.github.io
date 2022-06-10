@@ -1,7 +1,7 @@
 ---
 title: "Parc Infor matique"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item6.jpg"
+image: "images/portfolio/item6.png"
 categories: ["Infrastructure"]
 description: "This is meta description."
 draft: false

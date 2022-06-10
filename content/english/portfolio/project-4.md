@@ -1,7 +1,7 @@
 ---
 title: "Site Web"
 date: 2021-12-20T12:14:34+06:00
-image: "images/portfolio/item4.jpg"
+image: "images/portfolio/item4.png"
 categories: ["Web"]
 description: "This is meta description."
 draft: false
