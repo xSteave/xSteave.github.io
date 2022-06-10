@@ -1,6 +1,6 @@
 ---
 title : "MON BUT !"
-bg_image : "images/backgrounds/full-nav-bg.gif"
+image : "images/backgrounds/bg.gif"
 testimonial_slider:
 # slider item loop
 - name : "Architecte Réseaux"
