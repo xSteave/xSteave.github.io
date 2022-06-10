@@ -9,4 +9,4 @@ draft: false
 
 Dans cette documentation, je vais vous présenter une vidéo entièrement réaliser par mes soins, cette vidéo est une chorégraphie réaliser par deux jeunes danseur.
 
-[Vidéo](https://www.youtube.com/watch?v=D_5IVYSZJh8)
+[Vidéo](https://youtube.com/shorts/2GLU3ae87Qw)
