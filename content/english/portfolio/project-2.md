@@ -1,5 +1,5 @@
 ---
-title: "DHCP"
+title: "DMZ"
 date: 2022-02-27T12:14:34+06:00
 image: "images/portfolio/item2.jpg"
 categories: ["Windows","Cisco","Linux"]
