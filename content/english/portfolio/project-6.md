@@ -1,8 +1,8 @@
 ---
-title: "Maison"
+title: "Stage"
 date: 2022-01-10T12:14:34+06:00
 image: "images/portfolio/item6.png"
-categories: ["Montage"]
+categories: ["Infrastructure"]
 description: "This is meta description."
 draft: false
 project_info:
