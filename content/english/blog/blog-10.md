@@ -1,5 +1,5 @@
 ---
-title: "Montage vidéo : Danse."
+title: "Montage vidéo : Danse"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item10.png"
 tags: ["montage"]
