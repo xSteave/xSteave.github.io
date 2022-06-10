@@ -1,5 +1,5 @@
 ---
-title: "System DNS"
+title: "École"
 date: 2022-03-03T12:14:34+06:00
 image: "images/portfolio/item1.png"
 categories: ["Linux"]
