@@ -1,8 +1,8 @@
 ---
-title: "Stage"
-date: 2022-06-16T12:14:34+06:00
+title: "Maison"
+date: 2022-01-10T12:14:34+06:00
 image: "images/portfolio/item6.png"
-categories: ["Infrastructure"]
+categories: ["Montage"]
 description: "This is meta description."
 draft: false
 project_info:
@@ -19,6 +19,7 @@ project_info:
   icon: "fas fa-redo"
   content: "This is in a loop"
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
 ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
