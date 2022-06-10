@@ -1,9 +1,24 @@
 ---
 title : "Mon But"
+testimonial_slider:
+# slider item loop
 - name : "Micheal Clark"
   image : "images/backgrounds/bg.gif"
   designation : "Bac +5"
   content : "Mon projet professionnel est de devenir architecte réseaux.<br>Concevoir l'interconnexion des équipements permettant de faire circuler les informations au sein d'une entreprise."
+            
+# slider item loop
+- name : "Peter Parker"
+  image : "images/backgrounds/bg.gif"
+  designation : "Bac +5"
+  content : "Mon projet professionnel est de devenir architecte réseaux.<br>Concevoir l'interconnexion des équipements permettant de faire circuler les informations au sein d'une entreprise."
+            
+# slider item loop
+- name : "Jessica Jones"
+  image : "images/backgrounds/bg.gif"
+  designation : "Bac +5"
+  content : "Mon projet professionnel est de devenir architecte réseaux.<br>Concevoir l'interconnexion des équipements permettant de faire circuler les informations au sein d'une entreprise."
+
 # custom style
 custom_class: "" 
 custom_attributes: "" 
