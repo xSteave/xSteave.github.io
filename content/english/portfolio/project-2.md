@@ -2,7 +2,7 @@
 title: "École"
 date: 2022-02-27T12:14:34+06:00
 image: "images/portfolio/item2.png"
-categories: [,"Cisco"]
+categories: ["Cisco"]
 description: "This is meta description."
 draft: false
 project_info:
