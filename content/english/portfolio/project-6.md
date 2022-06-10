@@ -1,5 +1,5 @@
 ---
-title: "Stage"
+title: "Stage "
 date: 2022-06-10T12:14:34+06:00
 image: "images/portfolio/item6.png"
 categories: ["Infrastructure"]
