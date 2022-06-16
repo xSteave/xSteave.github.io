@@ -7,6 +7,6 @@ description: "This is meta description."
 draft: false
 ---
 
-Dans cette documentation, je vais vous présenter une configuration dhcp réaliser sur packet tracer.
+Dans cette documentation, je vais vous présenter une configuration dhcp réalisé sur packet tracer.
 
 [Documentation](/modele-cv-original-futuriste.pdf)

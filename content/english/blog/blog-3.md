@@ -7,6 +7,6 @@ description: "This is meta description."
 draft: false
 ---
 
-Dans cette documentation, je vais vous présenter un serveur de Messagerie fabriqué de toute pièce sur une machine linux.
+Dans cette documentation, je vais vous présenter un serveur de Messagerie fabriqué de toutes pièces sur une machine linux.
 
 [Documentation](/modele-cv-original-futuriste.pdf)
