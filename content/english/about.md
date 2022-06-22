@@ -14,9 +14,9 @@ experience:
   experience_list:
     # experience item loop
     - name : "Infrastructure réseau"
-      company : "compagny"
-      duration : "Date"
-      content : "Travail effectuer."
+      company : "Ecotextile"
+      duration : "06/06/22 -> 01/07/22"
+      content : "Assistant informatique dans une entreprise de textile."
       
     # experience item loop
     - name : "Montage vidéo"
