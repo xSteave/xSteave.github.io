@@ -25,10 +25,10 @@ experience:
       content : "Interview du métier de Relaxologue"
       
     # experience item loop
-    - name : "Infrastructure réseau"
-      company : "compagny"
-      duration : "Date"
-      content : "Travail effectuer."
+    - name : "Création site web"
+      company : "Galway"
+      duration : "07/11/22 -> 16/12/22"
+      content : "Réalisation d'un site web pour un restaurant à l'aide de Wordpress"
 
 ############################### Skill #################################
 skill:
@@ -61,4 +61,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-C'est Steave ! Je suis âgé de 18 ans. Actuellement étudiant en <br>BTS SIO  « spécialité SISR » Services Informatique Aux Organisations spécialité en Solutions d'Infrastructure, Systèmes et Réseaux au Lycée Edouard Gand à Amiens !<br>
+C'est Steave ! Je suis âgé de 19 ans. Actuellement étudiant en <br>BTS SIO  « spécialité SISR » Services Informatique Aux Organisations spécialité en Solutions d'Infrastructure, Systèmes et Réseaux au Lycée Edouard Gand à Amiens !<br>

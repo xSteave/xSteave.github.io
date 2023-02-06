@@ -8,6 +8,7 @@ bg_image : "images/backgrounds/full-nav-bg.gif"
 occupations:
 - "Systèmes et Réseaux"
 - "Montage vidéo"
+- "Cyber-Sécurité"
 
 # slider background image loop
 slider_images:

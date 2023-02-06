@@ -5,7 +5,7 @@ testimonial_slider:
 - name : ""
   image : "images/backgrounds/bg.gif"
   designation : "Bac +5"
-  content : "Mon projet professionnel est de devenir architecte réseaux.<br>Concevoir l'interconnexion des équipements permettant de faire circuler les informations au sein d'une entreprise."
+  content : "Mon projet professionnel est de devenir hacker éthique. <br> Assurer la protection des systèmes d'information face à d'éventuelles menaces de piratage. "
 
 # custom style
 custom_class: "" 
