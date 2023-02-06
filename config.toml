@@ -95,3 +95,103 @@ icon = "fab fa-linkedin"
 link = "https://fr.linkedin.com/in/steave-jean-baptiste-570183221"
 
 
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+
+
+################# english navigation ##################
+
+# main menu
+[[Languages.en.menu.main]]
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "Moi"
+pre = "#"
+url = "about"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Qualités"
+pre = "#"
+url = "service"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Portfolio"
+pre = "#"
+url = "portfolio"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Mon But"
+pre = "#"
+url = "testimonial"
+weight = 5
+
+[[Languages.en.menu.main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 6
+
+[[Languages.en.menu.main]]
+name = "Documentation"
+url = "blog"
+weight = 7
+
+
+################################### French language #####################################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+home = "Accueil"
+
+
+
+################# english navigation ##################
+
+# main menu
+[[Languages.fr.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[Languages.fr.menu.main]]
+name = "About me"
+pre = "#"
+url = "about"
+weight = 2
+
+[[Languages.fr.menu.main]]
+name = "Service"
+pre = "#"
+url = "service"
+weight = 3
+
+[[Languages.fr.menu.main]]
+name = "Portfolio"
+pre = "#"
+url = "portfolio"
+weight = 4
+
+[[Languages.fr.menu.main]]
+name = "Testimonial"
+pre = "#"
+url = "testimonial"
+weight = 5
+
+[[Languages.fr.menu.main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 6
