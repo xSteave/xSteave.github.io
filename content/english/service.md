@@ -1,5 +1,5 @@
 ---
-title : "MES QUALITÉS"
+title : "MES QULITÉS"
 service_list:
 # service item loop
 - name : "SÉRIEUX"
