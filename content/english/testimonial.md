@@ -3,7 +3,7 @@ title : "Mon But"
 testimonial_slider:
 # slider item loop
 - name : ""
-  image : "images/backgrounds/bg.gif"
+  image : "images/backgrounds/bg.png"
   designation : "Bac +5"
   content : "Mon projet professionnel est de devenir hacker éthique. <br> Assurer la protection des systèmes d'information face à d'éventuelles menaces de piratage. "
 
