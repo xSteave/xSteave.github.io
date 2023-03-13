@@ -9,4 +9,4 @@ draft: false
 
 Dans cette documentation, je vais vous présenter mon rapport de stage effectué au sein du restaurant "Galway". 
 
-[Documentation](/modele-cv-original-futuriste.pdf)
+[Documentation](/STAGE ECOTEXTILE (3).pdf)
