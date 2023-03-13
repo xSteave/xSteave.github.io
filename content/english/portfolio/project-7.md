@@ -1,5 +1,5 @@
 ---
-title: "École "
+title: "École"
 date: 2022-04-11T12:14:34+06:00
 image: "images/portfolio/item7.png"
 categories: ["Cisco"]
