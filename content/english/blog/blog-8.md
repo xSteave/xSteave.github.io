@@ -9,4 +9,4 @@ draft: false
 
 Dans cette documentation, je vais vous présenter une configuration dhcp réalisé sur packet tracer.
 
-[Documentation](/modele-cv-original-futuriste.pdf)
+[Documentation](/DHCP.pdf)

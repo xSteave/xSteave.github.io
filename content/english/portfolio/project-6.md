@@ -1,8 +1,8 @@
 ---
-title: "Stage "
+title: "École"
 date: 2022-06-10T12:14:34+06:00
 image: "images/portfolio/item6.png"
-categories: ["Infrastructure"]
+categories: ["Cisco"]
 description: "This is meta description."
 draft: false
 project_info:

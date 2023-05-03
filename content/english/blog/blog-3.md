@@ -9,4 +9,4 @@ draft: false
 
 Dans cette documentation, je vais vous présenter un serveur de Messagerie fabriqué de toutes pièces sur une machine linux.
 
-[Documentation](/modele-cv-original-futuriste.pdf)
+[Documentation](/MESSAGERIE.pdf)

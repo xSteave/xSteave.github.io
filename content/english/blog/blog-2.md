@@ -9,4 +9,4 @@ draft: false
 
 Dans cette documentation, je vais vous présenter la création d'une dmz réaliser sur packet tracer
 
-[Documentation](/modele-cv-original-futuriste.pdf)
+[Documentation](/DMZ.pdf)

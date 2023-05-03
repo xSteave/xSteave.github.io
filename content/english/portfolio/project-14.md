@@ -1,8 +1,8 @@
 ---
 title: "École"
-date: 2021-12-20T12:14:34+06:00
-image: "images/portfolio/item4.png"
-categories: ["Linux"]
+date: 2022-05-12T12:14:34+06:00
+image: "images/portfolio/item14.png"
+categories: ["infrastructure"]
 description: "This is meta description."
 draft: false
 project_info:
