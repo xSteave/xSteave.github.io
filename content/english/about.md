@@ -1,5 +1,5 @@
 ---
-title : "EN SAVIR <br> PLUS SUR MOI"
+title : "EN SAVOIR <br> PLUS SUR MOI"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
