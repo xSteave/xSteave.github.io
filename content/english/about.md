@@ -4,8 +4,8 @@ image : "images/backgrounds/portrait.jpg"
 # button
 button:
   enable : true
-  label : "TÉLÉCHARGER MON CVv"
-  link : "/modele-cv-original-futuriste.pdf"
+  label : "TÉLÉCHARGER MON CV"
+  link : "/Copie de Cv steave (1).pdf"
 
 ########################### Experience ##############################
 experience:
@@ -61,4 +61,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-C'est Steave ! Je suis âgé de 19 ans. Actuellement étudiant en <br>BTS SIO  « spécialité SISR » Services Informatique Aux Organisations spécialité en Solutions d'Infrastructure, Systèmes et Réseaux au Lycée Edouard Gand à Amiens !<br>
+C'est Steave ! Je suis âgé de 20 ans. Actuellement étudiant en <br>Licence  « spécialité Cybersécurité » à l'ESGI de Paris !<br>
