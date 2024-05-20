@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "TÉLÉCHARGER MON CV"
-  link : "/Copie de Cv steave (1).pdf"
+  link : "/cv.pdf"
 
 ########################### Experience ##############################
 experience:
