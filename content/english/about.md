@@ -4,7 +4,7 @@ image : "images/backgrounds/portrait.jpg"
 # button
 button:
   enable : true
-  label : "TÉLÉCHARGER MON CV"
+  label : "TÉLÉCHARGER MON CVv"
   link : "/modele-cv-original-futuriste.pdf"
 
 ########################### Experience ##############################
