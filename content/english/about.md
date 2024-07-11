@@ -4,8 +4,8 @@ image : "images/backgrounds/portrait.jpg"
 # button
 button:
   enable : true
-  label : "TÉLÉCHARGR MON CV"
-  link : "/cv.pdf"
+  label : "TÉLÉCHARGER MON CV"
+  link : "/cvsteavemontage.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -13,22 +13,17 @@ experience:
   title : "EXPÉRIENCE"
   experience_list:
     # experience item loop
-    - name : "Infrastructure réseau"
-      company : "Ecotextile"
-      duration : "06/06/22 -> 01/07/22"
-      content : "Assistant informatique dans une entreprise de textile."
+    - name : "Montage vidéo"
+      company : "5euro.com"
+      duration : "06/07/23 -> 09/07/23"
+      content : "Interview du métier de Relaxologue."
       
     # experience item loop
     - name : "Montage vidéo"
-      company : "5euro.com"
-      duration : "15/02/22 -> 20/02/22"
-      content : "Interview du métier de Relaxologue"
+      company : "PeterMoon"
+      duration : "12/05/22 -> 15/05/22"
+      content : "Best of Twitch"
       
-    # experience item loop
-    - name : "Création site web"
-      company : "Galway"
-      duration : "07/11/22 -> 16/12/22"
-      content : "Réalisation d'un site web pour un restaurant à l'aide de Wordpress"
 
 ############################### Skill #################################
 skill:
@@ -36,22 +31,19 @@ skill:
   title : "COMPÉTENCE"
   skill_list:
     # skill item loop
-    - name : "VMWare (VMWare workstation pro)"
+    - name : "AFTER EFFECT"
       percentage : "75%"
       
     # skill item loop
-    - name : "HTML, CSS, JAVASCRIPT, PHP"
-      percentage : "45%"
+    - name : "PREMIERE PRO"
+      percentage : "75%"
       
     # skill item loop
-    - name : "LINUX (Debian)"
-      percentage : "75%"
+    - name : "Edition et Post-Production"
+      percentage : "85%"
 
-    - name : "WINDOWS (Windows-Server 2016-2020)"
-      percentage : "70%"
-
-          # skill item loop
-    - name : "SONY VEGAS PRO, AFTER EFFECT"
+    # skill item loop
+    - name : "SONY VEGAS PRO"
       percentage : "90%"
 
 
@@ -61,4 +53,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-C'est Steave ! Je suis âgé de 20 ans. Actuellement étudiant en <br>Licence  « spécialité Cybersécurité » à l'ESGI de Paris !<br>
+C'est Steave ! Je suis âgé de 20 ans. Passionné de montage vidéo<br> ,à la recherche d'une formation.<br>
