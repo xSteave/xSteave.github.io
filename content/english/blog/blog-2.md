@@ -1,12 +1,12 @@
 ---
-title: "Création d'une DMZ"
-date: 2022-03-12T12:14:34+06:00
-image: "images/portfolio/item2.png"
-tags: ["Cisco"]
+title: "Montage vidéo : Interview métier Relaxologue."
+date: 2020-05-12T12:14:34+06:00
+image: "images/portfolio/item5.png"
+tags: ["montage"]
 description: "This is meta description."
 draft: false
 ---
 
-Dans cette documentation, je vais vous présenter la création d'une dmz réaliser sur packet tracer
+Dans cette documentation, je vais vous présenter une vidéo entièrement réalisé par mes soins, cette vidéo est une interview sur le métier de Relaxologue.
 
-[Documentation](/DMZ.pdf)
+[Vidéo](https://www.youtube.com/watch?v=D_5IVYSZJh8)
