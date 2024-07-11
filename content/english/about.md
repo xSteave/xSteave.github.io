@@ -4,7 +4,7 @@ image : "images/backgrounds/portrait.jpg"
 # button
 button:
   enable : true
-  label : "TÉLÉCHARGER MON CV"
+  label : "TÉLÉCHARGR MON CV"
   link : "/cv.pdf"
 
 ########################### Experience ##############################
