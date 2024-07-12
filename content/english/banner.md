@@ -6,9 +6,9 @@ last_name : "STEAVE"
 bg_image : "images/backgrounds/full-nav-bg.gif"
 # animated text loop
 occupations:
-- "Systèmes et Réseaux"
+- "Edition"
 - "Montage vidéo"
-- "Cyber-Sécurité"
+- "Post-Production"
 
 # slider background image loop
 slider_images:
