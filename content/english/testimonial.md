@@ -4,8 +4,8 @@ testimonial_slider:
 # slider item loop
 - name : ""
   image : "images/backgrounds/bg.png"
-  designation : "Bac +5"
-  content : "Mon projet professionnel est de devenir hacker éthique. <br> Assurer la protection des systèmes d'information face à d'éventuelles menaces de piratage. "
+  designation : "Bac +3"
+  content : "Mon projet professionnel est de devenir monteur vidéo."
 
 # custom style
 custom_class: "" 
